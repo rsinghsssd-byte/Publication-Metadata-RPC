@@ -1,0 +1,5 @@
+[
+    {"title": "Deep Learning", "author": "Ian Goodfellow", "year": 2016, "citations": 50000},
+    {"title": "Attention is All You Need", "author": "Ashish Vaswani", "year": 2017, "citations": 80000},
+    {"title": "BERT: Pre-training of Deep Bidirectional Transformers", "author": "Jacob Devlin", "year": 2018, "citations": 45000}
+]
